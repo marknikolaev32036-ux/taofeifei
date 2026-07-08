@@ -1,0 +1,6 @@
+{
+  "name": "淘废废",
+  "description": "纯粹的虚拟消费快乐！一个专治冲动消费的虚拟购物模拟器，想买就买，反正不会发货，守护您的钱包安全。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
